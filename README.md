@@ -30,6 +30,11 @@
     <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="48" height="48"/> </a> 
 </p>
 
+## Preferred IDE's
+<p align="left">
+    <a href="https://www.jetbrains.com/idea/" target="_blank" <img src="https://i.imgur.com/f93i63d.png"/> </a>
+</p>
+
 
 ## 📊 My Github Stats
 
