@@ -31,8 +31,9 @@
 </p>
 
 ## Preferred IDE's
+
 <p align="left">
-    <a href="https://www.jetbrains.com/idea/" target="_blank" <img src="https://i.imgur.com/f93i63d.png"/> </a>
+    <a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://i.imgur.com/f93i63d.png"/> </a>
 </p>
 
 
