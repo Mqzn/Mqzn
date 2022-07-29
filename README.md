@@ -33,7 +33,7 @@
 ## Preferred IDE's
 
 <p align="left">
-    <a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://icons8.com/icon/61466/icon"/> </a>
+    <a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://img.icons8.com/plasticine/452/intellij-idea.png 2x"/> </a>
 </p>
 
 
