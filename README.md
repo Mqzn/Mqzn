@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **mqzen.coding@gmail.com** or on discord **Mqzen#0001**
 
-- ⚡ Fun fact **I play games and go to the GYM very often.**
+- ⚡ Fun fact **I play games and I'm a good swimmer.**
 
 ## 🚀 Languages and Tools:
 
