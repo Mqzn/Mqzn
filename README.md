@@ -30,7 +30,7 @@
     <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="48" height="48"/> </a> 
 </p>
 
-## ![image](https://user-images.githubusercontent.com/72102072/181837050-bd518ffd-5dc0-4669-bb3b-002c3ac4d2ad.png) Preferred IDE's
+## 💻 Preferred IDE's
 
 <p align="left">
     <a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://img.icons8.com/plasticine/452/intellij-idea.png"/> </a>
