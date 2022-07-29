@@ -57,8 +57,7 @@
 </p>
 
 ## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Mqzn">
+![counter](https://mqzen.m.pipedream.net)
 </a>
 <a href="https://github.com/Mqzn?tab=followers"><img src="https://img.shields.io/github/followers/Mqzn?label=Followers&style=social" alt="GitHub Badge"></a>
 
