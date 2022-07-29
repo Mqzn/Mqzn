@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mqzen [Mqzn]</h1>
-<h3 align="center">I'm a passionate Java Developer from Egypt.</h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?duration=4800&color=3C96E1&lines=A+Passionate+Java+%26+Kotlin+Developer" alt="Typing SVG" /></a>
 
 
 ## 🙋‍♂️ About Me
