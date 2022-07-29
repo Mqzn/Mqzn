@@ -57,7 +57,7 @@
 </p>
 
 ## ❤ Views and Followers
-![counter](https://mqzen.m.pipedream.net)
+![counter](https://mqzn.m.pipedream.net)
 </a>
 <a href="https://github.com/Mqzn?tab=followers"><img src="https://img.shields.io/github/followers/Mqzn?label=Followers&style=social" alt="GitHub Badge"></a>
 
