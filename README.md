@@ -57,7 +57,7 @@
 </p>
 
 ## ❤ Views and Followers
-![counter](https://mqzn.m.pipedream.net)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mqzn&label=Profile%20views&color=0e75b6&style=flat" alt="mqzn" /> </p>
 </a>
 <a href="https://github.com/Mqzn?tab=followers"><img src="https://img.shields.io/github/followers/Mqzn?label=Followers&style=social" alt="GitHub Badge"></a>
 
