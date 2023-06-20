@@ -39,14 +39,6 @@
     <a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://img.icons8.com/plasticine/452/intellij-idea.png"/> </a>
 </p>
 
-
-## 📊 My Github Stats
-
-<a href="https://github.com/Mqzn/github-readme-activity-graph"><img alt="Mqzen's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Mqzn&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
-
 ## Connect with me:
 <p align="left">
 
