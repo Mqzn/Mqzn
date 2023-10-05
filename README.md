@@ -31,12 +31,6 @@
     <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="48" height="48"/> </a> 
 </p>
 
-## 💻 Preferred IDE's
-
-<p align="left">
-    <a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://img.icons8.com/plasticine/452/intellij-idea.png"/> </a>
-</p>
-
 ## Connect with me:
 <p align="left">
 
