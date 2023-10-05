@@ -9,8 +9,6 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **A SECRET PROJECT**
-
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
