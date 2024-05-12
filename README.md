@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects will be available soon here.
 
-- 📫 How to reach me **mqzen.coding@gmail.com** or on discord **Mqzen#0001**
+- 📫 How to reach me **mqzen.coding@gmail.com** or on discord **mqzen**
 
 - ⚡ Fun fact **I play games and I'm a good swimmer.**
 
