@@ -14,9 +14,9 @@
 </div>
 
 <div align="center">
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> 
+    <img src="https://img.shields.io/badge/Java-FF7139?style=for-the-badge&logo=openjdk&logoColor=white" /> 
     <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" /> 
-    <img src="https://img.shields.io/badge/Spigot%2FPaper%20API-47A248?style=for-the-badge&logo=spigotmc&logoColor=#ED8106" />
+    <img src="https://img.shields.io/badge/Spigot%2FPaper%20API-212121?style=for-the-badge&logo=spigotmc&logoColor=#ED8106" />
     <br>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> 
     <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /> 
@@ -32,38 +32,25 @@
 ---
 
 ## 🛠️ Technical Arsenal
+<p>
+Coding, for me, is an act of creative engineering. I thrive in the intersection of structure and innovation, where I architect libraries as foundational blueprints for others to build upon and craft APIs as bridges between imagination and functionality. Every line of code is a puzzle piece—whether I'm untangling complex systems, optimizing performance bottlenecks, or designing intuitive interfaces, my passion lies in solving problems that matter. I don’t just write code; I engineer tools that empower developers, streamline workflows, and turn abstract ideas into elegant, scalable solutions. When faced with a challenge, I see more than a bug—I see a story waiting to be debugged, a system begging for reinvention, and an opportunity to leave a lasting imprint on the digital landscape.
+</p>
+
 
 ### **Core Development Journey**
 - 🗓️ **6+ Years Java Mastery** (Since 2019) → **Kotlin Specialist** since 2021
-- ⚙️ **Build Systems Expert:**  
-  <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" />
-- 🎮 **Minecraft Ecosystem Architect:**  
-  <img src="https://img.shields.io/badge/Spigot/Paper-47A248?style=for-the-badge&logo=gamejolt&logoColor=white" />  
-  ```diff
-  + Production-grade plugin development (4+ years)
-  + Version-specific NMS implementations
-  + Mojang mapping reverse-engineering
-
-**Core Development**  
-
-
-**Database Ecosystem**  
-
-
-**DevOps & Tools**  
-
-
-**Advanced Specializations**  
-`NMS Implementations` • `Mojang Remappings` • `Packet Optimization` • `Containerization` • `Custom Class Loaders`
-
+- ⚙️ **Build Systems Expert**  
+- 🎮 **Minecraft Ecosystem Architect:**
+  - Production-grade plugin development (5+ years)
+  - Version-specific (1.8.8, 1.20+) NMS expertise.
+  - Familiar with BOTH spigot and mojang mappings. 
 ---
 
-## 🏗️ Featured Creations
+## 🏗️ Libraries I made
 
-<div align="center">
+<div align="left">
 
-| Library Ecosystem | Core Specialization
+| Library | Core Specialization
 |-------------------|---------------------
 | **[mBoard](https://github.com/Mqzn/mBoard)** <br> *Packet-based Scoreboards* | Advanced NMS Handling |
 | **[Lotus](https://github.com/Mqzn/Lotus)** <br> *Modern GUI Framework* | Annotation Processing |
@@ -95,8 +82,8 @@
 </div>
 
 ---
-
-
-## 🌐 Connect With Me
-<p align="center"> <a href="mailto:mqzen.coding@gmail.com"> <img src="https://img.icons8.com/3d-fluency/48/gmail.png" alt="Gmail" width="45"/> </a> <a href="https://discordapp.com/users/mqzen"> <img src="https://img.icons8.com/3d-fluency/48/discord.png" alt="Discord" width="45"/> </a> <a href="https://github.com/Mqzn"> <img src="https://img.icons8.com/3d-fluency/48/github.png" alt="GitHub" width="45"/> </a> 
-</p> 
+<p align="center"> 
+<a href="mailto:mqzen.coding@gmail.com"> <img src="https://img.icons8.com/3d-fluency/48/gmail.png" alt="Gmail" width="60"/> </a> 
+<a href="https://discordapp.com/users/mqzen"> <img src="https://img.icons8.com/3d-fluency/48/discord.png" alt="Discord" width="60"/> </a> 
+<a href="https://github.com/Mqzn"> <img src="https://img.icons8.com/3d-fluency/48/github.png" alt="GitHub" width="60"/> </a> 
+</p>
