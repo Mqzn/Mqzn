@@ -53,8 +53,8 @@ Coding, for me, is an act of creative engineering. I thrive in the intersection 
 | Library | Core Specialization
 |-------------------|---------------------
 | **[mBoard](https://github.com/Mqzn/mBoard)** <br> *Packet-based Scoreboards* | Advanced NMS Handling |
-| **[Lotus](https://github.com/Mqzn/Lotus)** <br> *Modern GUI Framework* | Annotation Processing |
-| **[Imperat](https://github.com/VelixDevelopments/Imperat)** <br> *Command Architecture* | Complex Hierarchy Support
+| **[Lotus](https://github.com/Mqzn/Lotus)** <br> *Modern GUI Framework* | Modern GUI Adapters |
+| **[Imperat](https://github.com/VelixDevelopments/Imperat)** <br> *Command Architecture* | Complex Hierarchy Commands Handling
 
 </div>
 
