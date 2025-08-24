@@ -52,9 +52,9 @@ Coding, for me, is an act of creative engineering. I thrive in the intersection 
 
 | Library | Core Specialization
 |-------------------|---------------------
-| **[mBoard](https://github.com/Mqzn/mBoard)** <br> *Packet-based Scoreboards* | Advanced NMS Handling |
+| **[Scofi](https://github.com/MeveraStudios/Scofi)** <br> *Packet-based Scoreboard Library* | High performance animated scoreboards |
 | **[Lotus](https://github.com/Mqzn/Lotus)** <br> *Modern GUI Framework* | Modern GUI Adapters |
-| **[Imperat](https://github.com/VelixDevelopments/Imperat)** <br> *Enterprise Command Framework* | Complex Hierarchy Commands Handling                                                     
+| **[Imperat](https://github.com/MeveraStudios/Imperat)** <br> *Enterprise Command Framework* | Complex Hierarchy Commands Handling                                                     
 
 </div>
 
