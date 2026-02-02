@@ -151,8 +151,6 @@ public class Mqzen implements Developer {
     <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mqzn&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=4A8FED&text_color=c9d1d9&langs_count=8" />
   </picture>
 
-  <br/><br/>
-
   <!-- Streak Stats - Alternative Service -->
   <picture>
     <source
@@ -165,8 +163,6 @@ public class Mqzen implements Developer {
     />
     <img width="70%" src="https://streak-stats.demolab.com?user=mqzn&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=4A8FED&ring=7F52FF&fire=FF7139&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=4A8FED&sideLabels=8b949e&dates=6e7681" />
   </picture>
-
-  <br/><br/>
 
   <!-- Activity Graph - Alternative Service -->
   <picture>
@@ -184,18 +180,6 @@ public class Mqzen implements Developer {
   <br/><br/>
 
   <!-- Trophy Case -->
-  <img src="https://github-profile-trophy.vercel.app/?username=mqzn&theme=tokyonight&no-frame=true&column=7&margin-w=10&margin-h=10" width="100%" />
-
-</div>
-
----
-
-## 🔥 Contribution Heatmap
-
-<div align="center">
-
-  <!-- 3D Contribution Calendar -->
-  <img src="https://github-contribution-grid-snake.vercel.app/api?username=mqzn&theme=github-dark&hide_border=true" width="100%" />
 
 </div>
 
